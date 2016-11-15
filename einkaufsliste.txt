@@ -1,0 +1,8 @@
+###Einkaufsliste###
+
+-Milch
+-Eier
+-Avocado
+-Bier
+-Noch mehr Bier
+
